@@ -9,5 +9,6 @@ This project pioneers advancements in Generative Adversarial Networks (GANs) for
 FID Score for Pix2Pix GAN is **0.155**
 
 **Generative and Discriminative Loss Graph for Pix2Pix**
+![Website Image](https://github.com/satyamraj18/Empirical-Evaluation-of-Image-to-Image-Translation-using-various-GANs/blob/main/Pix2Pix_Loss_Graph.png)
 
 
