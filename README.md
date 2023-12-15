@@ -5,3 +5,9 @@ This project pioneers advancements in Generative Adversarial Networks (GANs) for
 
 **Analysis of GANs performance:**
 *Pix2Pix:*
+
+FID Score for Pix2Pix GAN is **0.155**
+
+**Generative and Discriminative Loss Graph for Pix2Pix**
+
+
